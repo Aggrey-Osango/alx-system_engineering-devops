@@ -23,3 +23,6 @@
 
 ## 7-movethatfile
 	This commands moves the file called betty from /tmp and into /tmp my_first_directory
+
+## 8-firstdelete
+	This commands deletes the file betty from /tmp/my_first_directory
