@@ -34,3 +34,6 @@
 
 ## 10-back
 	This command goes back to prev directory
+
+## 11-lists
+	A list commnd for listing content on the current directory, it parents and the boot directory
