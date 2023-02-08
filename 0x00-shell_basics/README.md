@@ -10,3 +10,7 @@
 
 ## 3-listfiles
 	This command prints the long list of the current directory"
+
+## 4-listmorefiles
+	This command prints a long list of current working directory including the hidden files"
+
