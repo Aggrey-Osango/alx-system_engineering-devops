@@ -14,3 +14,5 @@
 ## 4-listmorefiles
 	This command prints a long list of current working directory including the hidden files"
 
+## 5-listfilesdigitonly
+	This command list content of the current working directory with group and user ID displaying numerically
