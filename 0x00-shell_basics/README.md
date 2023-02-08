@@ -4,3 +4,6 @@
 
 ## 1-listit
 	This command lists the contents of the current working directory
+
+## 2-bring_me_home
+	This command changes to home directory
