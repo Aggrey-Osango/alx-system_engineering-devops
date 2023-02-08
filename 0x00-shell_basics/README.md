@@ -30,3 +30,7 @@
 
 ## 9-firstdirdeletion
 	This commands deltes the my_first_directory in /tmp
+
+
+## 10-back
+	This command goes back to prev directory
