@@ -2,3 +2,5 @@
 ## 0-current_working_directory
 	This prints the absolute path to the current working directory
 
+## 1-listit
+	This command lists the contents of the current working directory
