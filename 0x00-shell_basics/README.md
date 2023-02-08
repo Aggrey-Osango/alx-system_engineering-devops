@@ -37,3 +37,6 @@
 
 ## 11-lists
 	A list commnd for listing content on the current directory, it parents and the boot directory
+
+## 12-file_type
+	This is a command that prints the type of a file
