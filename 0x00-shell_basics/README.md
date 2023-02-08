@@ -19,3 +19,7 @@
 
 ## 6-firstdirectory
 	This command will create a  directory name my_first_directory in /tmp
+
+
+## 7-movethatfile
+	This commands moves the file called betty from /tmp and into /tmp my_first_directory
