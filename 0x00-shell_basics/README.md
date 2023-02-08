@@ -26,3 +26,7 @@
 
 ## 8-firstdelete
 	This commands deletes the file betty from /tmp/my_first_directory
+
+
+## 9-firstdirdeletion
+	This commands deltes the my_first_directory in /tmp
