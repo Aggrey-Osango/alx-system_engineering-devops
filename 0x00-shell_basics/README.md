@@ -40,3 +40,7 @@
 
 ## 12-file_type
 	This is a command that prints the type of a file
+
+
+## 13-symbolic_link
+	Created a symbolic link for ls
