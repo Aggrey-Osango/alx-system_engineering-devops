@@ -7,3 +7,6 @@
 
 ## 2-bring_me_home
 	This command changes to home directory
+
+## 3-listfiles
+	This command prints the long list of the current directory"
