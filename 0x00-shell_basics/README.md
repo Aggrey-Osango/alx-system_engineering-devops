@@ -16,3 +16,6 @@
 
 ## 5-listfilesdigitonly
 	This command list content of the current working directory with group and user ID displaying numerically
+
+## 6-firstdirectory
+	This command will create a  directory name my_first_directory in /tmp
