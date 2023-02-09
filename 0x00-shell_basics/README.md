@@ -44,3 +44,6 @@
 
 ## 13-symbolic_link
 	Created a symbolic link for ls
+
+## 14-copy_html
+	This command copies the HTML files to the parent working directory
