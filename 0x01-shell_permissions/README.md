@@ -21,3 +21,7 @@
 
 ### 6-multiple_permissions
 	This command add multiple permissons to a user, groupe and other
+
+
+### 7-everybody
+	This command add execution permission to owner, the group owner, and the other users
