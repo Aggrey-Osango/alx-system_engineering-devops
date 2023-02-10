@@ -34,3 +34,7 @@
 
 ### 9-John_Doe
 	This command sets the mode of a file like -753
+
+
+### 10-mirror_permissions
+	This is a command that sets the permission on file hello same to olleh
