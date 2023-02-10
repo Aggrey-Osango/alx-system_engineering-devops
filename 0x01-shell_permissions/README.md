@@ -41,3 +41,6 @@
 
 ### 11-directories_permissions
 	This command give the execute permission to the subdirectories of the current working directory except files
+
+### 12-directory_permissions
+	This command creates a directory with 751 as permission
