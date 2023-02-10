@@ -6,3 +6,6 @@
 
 ### 1-who_am_i
 	This command prints the effective user name
+
+### 2-groups
+	This command show all groups of the current user
