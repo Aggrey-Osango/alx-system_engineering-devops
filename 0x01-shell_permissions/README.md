@@ -44,3 +44,6 @@
 
 ### 12-directory_permissions
 	This command creates a directory with 751 as permission
+
+### 13-change_group
+	This command changes group owner of a file
