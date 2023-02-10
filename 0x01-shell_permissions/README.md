@@ -12,3 +12,6 @@
 
 ### 3-new_owner
 	This command changes the owner of file hello to betty
+
+### 4-empty
+	This command creats an empty file
