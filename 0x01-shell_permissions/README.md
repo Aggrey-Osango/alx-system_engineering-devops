@@ -38,3 +38,6 @@
 
 ### 10-mirror_permissions
 	This is a command that sets the permission on file hello same to olleh
+
+### 11-directories_permissions
+	This command give the execute permission to the subdirectories of the current working directory except files
