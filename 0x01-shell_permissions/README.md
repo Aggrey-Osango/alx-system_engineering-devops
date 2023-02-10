@@ -31,3 +31,6 @@
 		user   => no permission
 		group  => no permission
 		others => full permission
+
+### 9-John_Doe
+	This command sets the mode of a file like -753
