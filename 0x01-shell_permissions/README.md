@@ -15,3 +15,6 @@
 
 ### 4-empty
 	This command creats an empty file
+
+### 5-execute
+	This command adds the excecuteable flag to hello
