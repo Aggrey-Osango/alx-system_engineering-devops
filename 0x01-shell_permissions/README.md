@@ -18,3 +18,6 @@
 
 ### 5-execute
 	This command adds the excecuteable flag to hello
+
+### 6-multiple_permissions
+	This command add multiple permissons to a user, groupe and other
