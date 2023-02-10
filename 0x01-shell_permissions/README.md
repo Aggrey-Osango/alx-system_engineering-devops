@@ -9,3 +9,6 @@
 
 ### 2-groups
 	This command show all groups of the current user
+
+### 3-new_owner
+	This command changes the owner of file hello to betty
