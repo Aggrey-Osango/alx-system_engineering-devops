@@ -25,3 +25,9 @@
 
 ### 7-everybody
 	This command add execution permission to owner, the group owner, and the other users
+
+### 8-James_Bond
+	This command set the permissions of a file in the following manner
+		user   => no permission
+		group  => no permission
+		others => full permission
